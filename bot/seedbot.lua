@@ -225,6 +225,8 @@ function create_config( )
     "all",
     "leave_ban",
     "admin"
+    "info"
+    "google"
     },
     sudo_users = {90971889},--Sudo users
     disabled_channels = {},
@@ -329,6 +331,10 @@ Commands list :
 
 !kick [username|id]
 You can also do it by reply
+
+!info
+
+!google
 
 !ban [ username|id]
 You can also do it by reply
